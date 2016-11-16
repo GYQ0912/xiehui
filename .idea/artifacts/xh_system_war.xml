@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xh-system:war">
+    <output-path>$PROJECT_DIR$/xh-system/target</output-path>
+    <root id="archive" name="xh-system.war">
+      <element id="artifact" artifact-name="xh-system:war exploded" />
+    </root>
+  </artifact>
+</component>
