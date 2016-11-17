@@ -114,7 +114,7 @@
             <%--<!--start ad-->--%>
             <div class="ad">
                 <c:if test="${centerList!=null&&centerList.size()>0}">
-                <a href="${centerList.get(0).redirect}"><img src="http://ec-efeiyi.oss-cn-beijing.aliyuncs.com/${centerList.get(0).img}" alt=""></a>
+                <a href="${centerList.get(0).redirect}" target="_blank"><img src="http://ec-efeiyi.oss-cn-beijing.aliyuncs.com/${centerList.get(0).img}" alt=""></a>
                 </c:if>
             </div>
             <%--<!--//End ad-->--%>

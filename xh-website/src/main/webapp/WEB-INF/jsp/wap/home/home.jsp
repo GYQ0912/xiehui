@@ -21,7 +21,7 @@
     <div class="swiper-wrapper">
       <c:if test="${bannerList != null}">
         <c:forEach items="${bannerList}" var="banner">
-          <div class="swiper-slide"><a href="${banner.directUrl}" target="_blank"><img src="${banner.imageUrl}@!home1-banner" alt=""></a></div>
+          <div class="swiper-slide"><a href="#"><img src="${banner.imageUrl}@!home1-banner" alt=""></a></div>
         </c:forEach>
       </c:if>
     </div>

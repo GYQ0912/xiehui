@@ -12,14 +12,14 @@ import javax.servlet.http.HttpServletResponse;
  */
 public class DriverInterceptor extends HandlerInterceptorAdapter {
     public void postHandle(HttpServletRequest request,
-                           HttpServletResponse response, Object o, ModelAndView mav)
+                           HttpServletResponse response, Object o, ModelAndView mv)
             throws Exception {
-        if (mav != null && mav.getViewName() != null && !mav.getViewName().startsWith("redirect") && !mav.getViewName().startsWith("forward")) {
+        if (mv != null && mv.getViewName() != null && !mv.getViewName().startsWith("redirect") && !mv.getViewName().startsWith("forward")) {
 
             if (!HttpUtil.isPhone(request.getHeader("User-Agent"))) {
-                mav.setViewName("/pc/" + mav.getViewName());
+                mv.setViewName("/pc/" + mv.getViewName());
             } else {
-                mav.setViewName("/wap/" + mav.getViewName());
+                mv.setViewName("/wap/" + mv.getViewName());
             }
         }
         response.setHeader("X-Frame-Options","");

@@ -88,7 +88,21 @@
                 <dbpath>/tmp/logs/</dbpath>
             </properties>
             <activation>
-                <activeByDefault>true</activeByDefault>
+                <activeByDefault>false</activeByDefault>
+            </activation>
+        </profile>
+        <profile>
+            <id>efc-temp-pub</id>
+            <properties>
+                <db-driver>com.mysql.jdbc.Driver</db-driver>
+                <db-password>sl7BbVfIumw5V/irhnO9FA==</db-password>
+                <db-url>jdbc:mysql://efeiyimysql.mysql.rds.aliyuncs.com/efc-temp?autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=utf8</db-url>
+                <db-username>efy</db-username>
+                <db-level>DEBUG</db-level>
+                <dbpath>/tmp/logs/</dbpath>
+            </properties>
+            <activation>
+                <activeByDefault>false</activeByDefault>
             </activation>
         </profile>
         <profile>
@@ -102,7 +116,7 @@
                 <dbpath>/tmp/logs/</dbpath>
             </properties>
             <activation>
-                <activeByDefault>false</activeByDefault>
+                <activeByDefault>true</activeByDefault>
             </activation>
         </profile>
         <profile>
