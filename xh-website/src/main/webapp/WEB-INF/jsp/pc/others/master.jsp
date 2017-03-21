@@ -22,7 +22,7 @@
       float: left
     }
     .hd {
-      width: 1120px;
+      width: 1002px;
       margin: 0 auto;
       position: relative
     }
@@ -164,33 +164,17 @@
 <body>
 <div class="banner"><img src="/shop2015/images/banner.jpg" alt=""><div class="hd" style="height: 600px;"><a href="http://master.efeiyi.com/index" target="_blank" title="查看更多大师">查看更多大师</a></div></div>
 <!--//End-->
+
 <div class="hd">
-  <h2 class="fz24" style="line-height: 146px">热贡唐卡艺术的执着守护者—娘本</h2>
-  <div class="text">娘本作为中国非物质文化遗产保护协会常务理事、全国非物质文化遗产先进工作者和中国知识产权文化大使已入驻e飞蚁国际非遗互联网平台（<a class="red" href="http://www.efeiyi.com" title="非物质文化遗产互联网平台" target="_blank">www.efeiyi.com</a>），并携其作品《文殊菩萨》、《八马财神》等入驻前门华韵文化体验园区，与永新华韵携手共同发扬热贡现代唐卡艺术画派。</div>
-  <div class="img"><img src="/shop2015/images/2016111501.jpg" alt=""></div>
-  <div class="text"><strong class="fz20">娘本</strong>，土族，1971年出生于青海省黄南藏族自治州同仁县隆务镇吾屯上村。从小深受吾屯上寺和下寺佛教绘画艺术的感染和熏陶，12岁的娘本就跟随中国工艺美术大师夏吾才让拜师学艺，从事“热贡艺术”唐卡绘画和藏传佛教艺术的研究工作，其后他成为藏族绘画大师夏吾才让的真传弟子。</div>
-  <div class="text">娘本，土族，1971年出生于青海省黄南藏族自治州同仁县隆务镇吾屯上村。从小深受吾屯上寺和下寺佛教绘画艺术的感染和熏陶，12岁的娘本就跟随中国工艺美术大师夏吾才让拜师学艺，从事“热贡艺术”唐卡绘画和藏传佛教艺术的研究工作，其后他成为藏族绘画大师夏吾才让的真传弟子。</div>
-  <div class="img"><img src="/shop2015/images/2016111502.jpg" alt=""></div>
-  <div class="img"><img src="/shop2015/images/2016111503.jpg" alt=""></div>
-  <div class="text">娘本吸取各家所长，在继承“热贡艺术”传统风格的基础上，他积极探索，大胆创新。在藏传佛教“热贡艺术”与汉族工笔画的特色相互结合方面有了突破性的进展，逐步形成了作品色彩绚丽大方、画面构图精细复杂、细条绘画严谨细腻、画面人物神态生动的独特艺术风格。</div>
-  <div class="img"><img src="/shop2015/images/2016111504.jpg" alt=""></div>
-  <div class="text">随着娘本唐卡绘画作品在省内外的影响的扩大，他的许多作品分别获得了不同级别的嘉奖，深受国内外文化艺术界和藏学界的高度评价和赞誉。娘本表示，他最大心愿就是将热贡艺术发扬光大，走出国门、走向世界。</div>
-  <div class="img"><img src="/shop2015/images/2016111505.jpg" alt=""></div>
-  <div class="text">唐卡，是藏族绘画艺术的独特形式，是藏族与不同地域文化、特别是与汉民族文化之间交相辉映的产物。南亚、中亚和中原多种文化的复杂作用共同推动了唐卡艺术风格的演变。唐卡历经一千多年的积累与发展，成为汇聚藏族宗教、历史、科技和艺术等各个领域珍贵遗产的载体。2006年，藏族唐卡被列入第一批国家级非物质文化遗产名录。2009年，唐卡与堆绣、彩塑和铜雕等一起作为“热贡艺术”被联合国教科文组织列入《人类非物质文化遗产代表作名录》。</div>
-  <div class="img"><img src="/shop2015/images/2016111506.jpg" alt="">
-    <p>联合国教科文组织总干事博科娃女士在前门传统文化艺术中心观看娘本大师的作品</p>
-  </div>
-  <div class="img"><img src="/shop2015/images/2016111507.jpg" alt="">
-    <p>娘本在前门传统文化艺术中心向联合国教科文组织总干事博科娃女士赠送唐卡合影</p>
-  </div>
-  <div class="img"><img src="/shop2015/images/2016111508.jpg" alt="">
-    <p>法国95省代表团在前门传统文化艺术中心观看娘本大师的作品</p>
-  </div>
-  <div class="img"><img src="/shop2015/images/2016111509.jpg" alt="">
-    <p>娘本大师与永新华韵董事长李永军先生（右二）、永新华韵总裁林涛先生（左一）合影留念</p>
-  </div>
-  <div class="text">目前娘本大师已入驻e飞蚁国际非遗互联网平台（<a class="red" href="http://www.efeiyi.com" title="非物质文化遗产互联网平台" target="_blank">www.efeiyi.com</a>）和前门华韵文化体验园区，永新华韵提供线上线下的全方位大师讲解和作品观看。娘本与永新华韵共同弘扬热贡唐卡艺术，希望唐卡艺术在画师们的薪火相传和社会各界的支持下得到更好的传承与发展。</div>
+  <div class="img"><img src="/shop2015/images/2017011201.jpg" alt=""></div>
+  <div class="img"><img src="/shop2015/images/2017011202.jpg" alt=""></div>
+  <div class="img"><img src="/shop2015/images/2017011203.jpg" alt=""></div>
+  <div class="img"><img src="/shop2015/images/2017011204.jpg" alt=""></div>
+  <div class="img"><img src="/shop2015/images/2017011205.jpg" alt=""></div>
+  <div class="img"><img src="/shop2015/images/2017011206.jpg" alt=""></div>
 </div>
+
+
 <div class="bd footer">
   <div class="hd">
     <div class="links">
